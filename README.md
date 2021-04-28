@@ -1,2 +1,2 @@
 # Scientific-Computing-for-Economists
-WiSe 2021
+Bonn University, WiSe 2021, Prof. Philipp Eisenhauer
